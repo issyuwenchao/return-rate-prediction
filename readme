@@ -1,0 +1,13 @@
+return-rate-prediction
+======================
+
+predict the return rate of phone case
+
+
+*run config*
+log path = 
+database path = 
+
+*file description*
+1. demo.py
+  
